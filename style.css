@@ -27,7 +27,7 @@
         transition: .2s ease-in-out 0s
     }
     .calender:hover {
-        transform: scale(1.05);
+        transform: scale(1.25);
         box-shadow: 10px 10px 40px rgb(0, 0, 0, 1);
     }
     .month {
